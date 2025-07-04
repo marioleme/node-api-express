@@ -1,0 +1,14 @@
+{
+  "name": "alura-books-server",
+  "version": "1.0.0",
+  "description": "Curso aluro node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
